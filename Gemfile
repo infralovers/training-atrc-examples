@@ -10,7 +10,7 @@ gem 'cucumber', '3.1.2'
 gem 'cucumber-sinatra', '0.5.0'
 gem 'database_cleaner', '1.7.0'
 gem 'json', '2.2.0'
-gem 'rake', '12.3.2'
+gem 'rake', '12.3.3'
 gem 'rspec', '3.9.0'
 
 group :development do
