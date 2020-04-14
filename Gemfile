@@ -1,11 +1,11 @@
 source 'https://rubygems.org/'
 
 gem 'activerecord', '5.2.3'
-gem 'sinatra', '2.0.5'
+gem 'sinatra', '2.0.8.1'
 gem 'sinatra-activerecord', '2.0.13'
 gem 'sqlite3', '1.4.1'
 
-gem 'capybara', '3.25.0'
+gem 'capybara', '3.31.0'
 gem 'cucumber', '3.1.2'
 gem 'cucumber-sinatra', '0.5.0'
 gem 'database_cleaner', '1.7.0'
