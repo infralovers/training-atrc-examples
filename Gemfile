@@ -1,16 +1,13 @@
 source 'https://rubygems.org/'
 
-gem 'activerecord', '5.2.3'
-gem 'sinatra', '2.0.8.1'
-gem 'sinatra-activerecord', '2.0.13'
+gem 'sinatra', '2.1.0'
+gem 'sinatra-activerecord', '2.0.21'
 gem 'sqlite3', '1.4.1'
 
-gem 'capybara', '3.31.0'
-gem 'cucumber', '4.1.0'
-gem 'cucumber-sinatra', '0.5.0'
-gem 'json', '2.3.1'
+gem 'capybara', '3.34.0'
+gem 'cucumber', '5.2.0'
 gem 'rake', '12.3.3'
-gem 'rspec-expectations', '3.9.2'
+gem 'rspec-expectations', '3.10.0'
 gem 'httparty', '0.18.1'
 
 group :development do
