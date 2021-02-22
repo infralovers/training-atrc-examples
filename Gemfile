@@ -3,6 +3,7 @@ source 'https://rubygems.org/'
 gem 'sinatra', '2.1.0'
 gem 'sinatra-activerecord', '2.0.21'
 gem 'sqlite3', '1.4.1'
+gem 'activerecord', '5.2.3'
 
 gem 'capybara', '3.34.0'
 gem 'cucumber', '5.2.0'
