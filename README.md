@@ -8,4 +8,5 @@ It is used in a course by Commandemy.
 bundle install
 
 ## Run
+
 shotgun

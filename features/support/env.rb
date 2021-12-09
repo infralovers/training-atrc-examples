@@ -1,5 +1,3 @@
-require File.join(File.dirname(__FILE__), '..', '..', 'app.rb')
+require 'httparty'
 
-require 'capybara/cucumber'
-
-Capybara.app = Blog
+SERVER_URL = "http://localhost:#{ENV['SERVER_PORT']}"
