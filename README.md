@@ -9,4 +9,4 @@ bundle install
 
 ## Run
 
-shotgun
+ruby app.rb -p 808x
