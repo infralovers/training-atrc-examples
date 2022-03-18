@@ -4,7 +4,7 @@ gem 'sinatra', '2.2.0'
 gem 'sinatra-contrib', '2.2.0'
 gem 'sinatra-activerecord', '2.0.23'
 gem 'sqlite3', '1.4.2'
-gem 'activerecord', '5.2.3'
+gem 'activerecord', '6.1.5'
 gem 'webrick', '1.7.0'
 
 gem 'cucumber', '7.1.0'
