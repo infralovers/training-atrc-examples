@@ -11,7 +11,3 @@ gem 'cucumber', '8.0.0'
 gem 'database_cleaner', '2.0.2'
 gem 'httparty', '0.21.0'
 gem 'rspec-expectations', '3.12.2'
-
-group :development do
-  gem 'tux', '0.3.0'
-end
